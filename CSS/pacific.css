@@ -1,0 +1,41 @@
+/* || General styles */
+body {
+    background-color: #FFFFFF;
+    color: #555555;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: #1976D2;
+}
+
+/* || Typography */
+h1 {
+    margin-bottom: 0;
+}
+
+h2 {
+    color: #1976D2;
+}
+
+dt {
+    color: #002171;
+}
+
+/* || Header and Main Navigation */
+header {
+    background-color: #002171;
+    background-image: url(/images/sunset.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+}
+
+nav {
+    background-color: #BBDEFB;
+}
+
+/* || Unique elements */
+.resort {
+    color: #1976D2;
+}
